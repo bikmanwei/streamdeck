@@ -1,5 +1,5 @@
 # streamdeck
 share Stream Deck Profiles and button designs
 
-##Apps:
+Apps:
 - Sketch (graphic design tool) 
